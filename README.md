@@ -1,2 +1,2 @@
 # AssignmentsManager
-Assigntments Management Application
+Assignments Management Application
