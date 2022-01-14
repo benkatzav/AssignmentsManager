@@ -15,3 +15,9 @@ SQL Tables:
 
 ![Sql](https://user-images.githubusercontent.com/88583978/149535128-e89a7c94-0060-491f-b95f-57242ab1e01e.jpg)
 
+
+Before running the application please make sure to follow these steps:
+
+1. Create a database with the name: TasksManager
+2. Create the tables according to the diagram above
+3. Change the connectionString value in Web.config to your own one
